@@ -20,12 +20,17 @@ export default class ContactCard extends Component
         return (
             <section className="contact-card">
                 <div className="container">
-                    <h3>{this.state.name}</h3>
-                    <ul>
-                        <li>mobile: {this.state.mobile}</li>
-                        <li>work: {this.state.work}</li>
-                        <li>email: {this.state.email}</li>
-                    </ul>
+                    <div className="card-front">
+                        <h3>{this.state.name}</h3>
+                    </div>
+
+                    <div className="card-back">
+                        <ul>
+                            <li>mobile: {this.state.mobile}</li>
+                            <li>work: {this.state.work}</li>
+                            <li>email: {this.state.email}</li>
+                        </ul>
+                    </div>
                 </div>
             </section>
         );
