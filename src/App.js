@@ -24,6 +24,18 @@ function App()
                         work="444-444-4444"
                         email="dude@me.io"
                     />
+                    <ContactCard
+                        name="Another Dude"
+                        mobile="555-555-5555"
+                        work="666-666-6666"
+                        email="anotherdude@gmail.com"
+                    />
+                    <ContactCard
+                        name="Emergency"
+                        mobile="911"
+                        work="911"
+                        email="help@help.gov"
+                    />
                 </section>
             </header>
         </div>
