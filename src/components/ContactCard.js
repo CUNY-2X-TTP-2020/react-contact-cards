@@ -18,7 +18,7 @@ export default class ContactCard extends Component
     render()
     {
         return (
-            <section className="contact-card">
+            <div className="contact-card">
                 <div className="container">
                     <div className="card-front">
                         <h3>{this.state.name}</h3>
@@ -32,7 +32,7 @@ export default class ContactCard extends Component
                         </ul>
                     </div>
                 </div>
-            </section>
+            </div>
         );
     }
 }
