@@ -10,7 +10,7 @@ function App()
             <header className="App-header">
                 <h1>Contact Cards</h1>
 
-                <section>
+                <section className="card-grid">
                     <ContactCard />
                     <ContactCard 
                         name="Jane Doe" 
