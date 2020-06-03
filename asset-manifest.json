@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-contact-cards/static/css/main.16aff3a2.chunk.css",
-    "main.js": "/react-contact-cards/static/js/main.c1018874.chunk.js",
-    "main.js.map": "/react-contact-cards/static/js/main.c1018874.chunk.js.map",
+    "main.js": "/react-contact-cards/static/js/main.efcb14c1.chunk.js",
+    "main.js.map": "/react-contact-cards/static/js/main.efcb14c1.chunk.js.map",
     "runtime-main.js": "/react-contact-cards/static/js/runtime-main.70ef9f6c.js",
     "runtime-main.js.map": "/react-contact-cards/static/js/runtime-main.70ef9f6c.js.map",
     "static/js/2.2fa153ff.chunk.js": "/react-contact-cards/static/js/2.2fa153ff.chunk.js",
     "static/js/2.2fa153ff.chunk.js.map": "/react-contact-cards/static/js/2.2fa153ff.chunk.js.map",
     "index.html": "/react-contact-cards/index.html",
-    "precache-manifest.afd7e6008fab85525eb4542801b76b68.js": "/react-contact-cards/precache-manifest.afd7e6008fab85525eb4542801b76b68.js",
+    "precache-manifest.135349c9fc2ca6e44a15bf86aed1e1a1.js": "/react-contact-cards/precache-manifest.135349c9fc2ca6e44a15bf86aed1e1a1.js",
     "service-worker.js": "/react-contact-cards/service-worker.js",
     "static/css/main.16aff3a2.chunk.css.map": "/react-contact-cards/static/css/main.16aff3a2.chunk.css.map",
     "static/js/2.2fa153ff.chunk.js.LICENSE.txt": "/react-contact-cards/static/js/2.2fa153ff.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.70ef9f6c.js",
     "static/js/2.2fa153ff.chunk.js",
     "static/css/main.16aff3a2.chunk.css",
-    "static/js/main.c1018874.chunk.js"
+    "static/js/main.efcb14c1.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0629bfd1c3469714b62c08970f84b4f7",
+    "revision": "ef4d217a1f654f00e9024d374f136926",
     "url": "/react-contact-cards/index.html"
   },
   {
-    "revision": "efad5582cbedd9034422",
+    "revision": "ec7fdcc0a73d70d9e66c",
     "url": "/react-contact-cards/static/css/main.16aff3a2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-contact-cards/static/js/2.2fa153ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efad5582cbedd9034422",
-    "url": "/react-contact-cards/static/js/main.c1018874.chunk.js"
+    "revision": "ec7fdcc0a73d70d9e66c",
+    "url": "/react-contact-cards/static/js/main.efcb14c1.chunk.js"
   },
   {
     "revision": "1f973438f92da38f92a3",
