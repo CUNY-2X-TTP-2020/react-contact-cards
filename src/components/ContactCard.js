@@ -14,6 +14,20 @@ export default class ContactCard extends Component
             email: props.email !== undefined ? props.email : "email@domain.com"
         };
     }
+
+    render()
+    {
+        return (
+            <section className="contact-card">
+                <h3>{this.state.name}</h3>
+                <ul>
+                    <li>mobile: {this.state.mobile}</li>
+                    <li>work: {this.state.work}</li>
+                    <li>email: {this.state.email}</li>
+                </ul>
+            </section>
+        );
+    }
 }
 
 ContactCard.propTypes =
