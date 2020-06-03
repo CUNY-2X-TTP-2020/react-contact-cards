@@ -32,6 +32,7 @@
     transition: transform 0.6s;
     transform-style: preserve-3d;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    border-radius: 15px;
 }
   
 .contact-card:hover .container 
@@ -52,6 +53,7 @@
 {
     background-color: #1e3131;
     transform: rotateY(180deg);
+    border-radius: 15px;
 }
 
 .card-grid
